@@ -1,0 +1,9 @@
+/bin/
+/dist/
+/.vscode/
+/.idea/
+*.class
+*.jar
+*.log
+*.tmp
+*.cache
